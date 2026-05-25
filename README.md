@@ -3,7 +3,7 @@
  # RepoQuery
  
 **The AI Knowledge Engine for GitHub Teams**
-> Note: This project was originally developed under the name "Prometheus", inspired by Prometheus as a symbol of knowledge, innovation, and human progress. After becoming aware of the Prometheus monitoring ecosystem during later production-system studies, the project was renamed to "RepoQuery" to avoid naming ambiguity in professional contexts.
+
 
 > *RepoQuery is a full-stack AI SaaS that turns GitHub repositories, commits, and meetings into a single intelligent knowledge system for development teams.*
 
@@ -36,7 +36,7 @@ Modern development teams suffer from:
 <img width="1905" height="912" alt="image" src="https://github.com/user-attachments/assets/a5914447-bc90-4829-b4c9-798b2e1fd3d9" />
 
 ---
-
+> Note: This project was originally developed under the name "Prometheus", inspired by Prometheus as a symbol of knowledge, innovation, and human progress. After becoming aware of the Prometheus monitoring ecosystem during later production-system studies, the project was renamed to "RepoQuery" to avoid naming ambiguity in professional contexts.
 ##  What Problem Does RepoQuery Solve?
 
 ###  The Problem
