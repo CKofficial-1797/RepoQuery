@@ -175,7 +175,6 @@ RepoQuery supports repository-aware Q&A using a RAG pipeline over indexed code e
 
 ### AI & ML
 - Google Gemini
-- Hugging Face Embeddings
 - RAG pipeline
 
 ### Audio
